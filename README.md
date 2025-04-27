@@ -10,7 +10,7 @@ Here are some examples of what you can create:
 
 ### 1. 3D Figure
 
-![3D Figure](https://upload.actionfigureai.online/toy-figure-case1.webp)
+![3D Figure](./images/toy-figure-case1.webp)
 
 **Style:** 3D Figure
 
@@ -23,7 +23,7 @@ Create a high-quality, anime-style action figure of person using my attached pho
 
 ### 2. Male Programmer
 
-![Male Programmer](https://upload.actionfigureai.online/toy-figure-case2.webp)
+![Male Programmer](./images/toy-figure-case2.webp)
 
 **Style:** Toy Figure
 
@@ -39,7 +39,7 @@ a plastic action figure with articulating limbs based on the person in this phot
 
 ### 3. Action Figure
 
-![Action Figure](https://upload.actionfigureai.online/toy-figure-case3.webp)
+![Action Figure](./images/toy-figure-case3.webp)
 
 **Style:** 3D Figure
 
@@ -56,7 +56,7 @@ Focus on realistic lighting, high-quality render details, and a premium collecto
 
 ### 4. Capsule Girl
 
-![Capsule Girl](https://upload.actionfigureai.online/toy-figure-case4.webp)
+![Capsule Girl](./images/toy-figure-case4.webp)
 
 **Style:** Toy Figure
 
@@ -71,7 +71,7 @@ She has (fair skin, soft pink lips, hoop earrings, and The background inside the
 
 ### 5. Raya Girl
 
-![Raya Girl](https://upload.actionfigureai.online/toy-figure-case5.webp)
+![Raya Girl](./images/toy-figure-case5.webp)
 
 **Style:** Toy Figure
 
@@ -85,7 +85,7 @@ Next to the figure,there should be accessories equiment (like baju raya, heels, 
 
 ### 6. Polaroid Photo
 
-![Polaroid Photo](https://upload.actionfigureai.online/figure-card-case1.webp)
+![Polaroid Photo](./images/figure-card-case1.webp)
 
 **Style:** Figure Card
 
@@ -98,7 +98,7 @@ Create a stylized 3D character based on my photo reference. The character is sit
 
 ### 7. Digital Maverick
 
-![Digital Maverick](https://upload.actionfigureai.online/toy-figure-case6.webp)
+![Digital Maverick](./images/toy-figure-case6.webp)
 
 **Style:** Toy Figure
 
@@ -111,7 +111,7 @@ Create an image of A premium boxed toy action figure of a bold female content cr
 
 ### 8. Street Style Series
 
-![Street Style Series](https://upload.actionfigureai.online/toy-figure-case7.webp)
+![Street Style Series](./images/toy-figure-case7.webp)
 
 **Style:** Toy Figure
 
